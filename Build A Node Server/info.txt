@@ -1,0 +1,9 @@
+This is the about page.
+
+My name is Wilma and I like skateboard. And now adays I realy like node and coding.
+
+
+Options: 
+/links
+/super
+Home page: 127.0.0.1:3030
